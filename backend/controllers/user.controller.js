@@ -20,7 +20,6 @@ export const getUserProfile = async (req, res) => {
   }
 }
 
-
 export const followUnfollowUser = async (req, res) => {
   
   try {
