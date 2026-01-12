@@ -10,8 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "daisyui": "^5.5.14",
+    "pos": "^0.4.2",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.12.0",
+    "tailwindcss": "^4.1.18",
+    "tcss": "^1.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
